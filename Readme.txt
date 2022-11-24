@@ -1,11 +1,9 @@
-Запуск программы в командной строке
-D:\java\CVT\for-cvt-sqlite-people>java -jar CVT_SQLite.jar
+Запуск программы
+
+CVT_SQLite.jar двойным кликом или запустить с помощию Java(TM) Platform SE binary
+
 Запуск браузера в режиме инкогнито
 http://localhost:8080/
 
-готовые шаблоны работы в командной строке
-
-cd C:/
-d:
-cd D:\java\CVT\for-cvt-sqlite-people
-java -jar CVT_SQLite.jar
+остановить в диспетчере задач процесс 
+Java(TM) Platform SE binary
